@@ -1,0 +1,9 @@
+# Public distribution repository: only README, LICENSE and release\ are published.
+# The source code lives in a separate private folder and must never be added here.
+*
+!.gitignore
+!README.md
+!LICENSE
+!release/
+!release/SDOX.exe
+!release/sdox.dll
